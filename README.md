@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator that can add, subtract, multiply, and divide.
+Simple calculator that can add, subtract, multiply, and divide. Checks for single decimal use for each operand. In making this calculator, I used a calculator grid in CSS so that the buttons are neatly positioned in rows and columns. I used buttons and functions in javascript to make the text content of buttons appear on a display. I used javascript functions to compute calculations and update display.
